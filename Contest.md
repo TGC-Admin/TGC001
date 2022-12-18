@@ -90,4 +90,3 @@ Writer 陣も強化し，よりたくさんの「解けた！！」を届ける�
 
 #### 過去のコンテスト
 - [TGC000](https://mojacoder.app/users/Machonium/contests/TG-BsAC-000) 2022/08/11
-
